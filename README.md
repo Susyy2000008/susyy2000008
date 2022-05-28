@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hola me llamo Susana Abigail Rivera Cabrera voy en 2º de secundaria en la no.11º, mis pasatiempos son oir musica y bailar, lo que espero en este curso es  ampliar mis conocimientos en tecnologia y aprender a programar 
 <!--
 **Susyy2000008/susyy2000008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
